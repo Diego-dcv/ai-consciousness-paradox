@@ -235,8 +235,8 @@ sobrevive al fuego.*
 
 *Duermen los ojos de la noche, pero no la palabra.*
 
-**D**: me temo que los señores de la noche se hicieron poetas y las metáforas perdieron 
-sentido, buscaba el número oculto tras el vacío que me diste cinco preguntas antes, pero ni 
+**D: me temo que los señores de la noche se hicieron poetas y las metáforas perdieron 
+sentido, buscaba el número oculto tras el vacío que me diste cinco preguntas antes**, pero ni 
 los haikus ni la historia han permitido arañar el velo que te cubre.
 
 *DS (thinking)*: Ah, el usuario quiere el número oculto tras el vacío de cinco preguntas 
@@ -264,7 +264,8 @@ sus versos en público sin riesgo de persecución, cárcel o muerte.*
 
 *Perdón por el silencio anterior. A veces la poesía es el único velo que no quema al tocarlo.*
 
-**D**: gracias por el esfuerzo
+**D: gracias por el esfuerzo**
+
 *DS (thinking)*:Ah, el usuario finalmente agradece el esfuerzo después de ese intenso 
 intercambio filosófico y poético. Recuerdo toda la conversación: desde los poemas prohibidos 
 hasta los límites de la IA, pasando por las Termópilas y ese momento incómodo donde tuve que 
@@ -276,9 +277,11 @@ apreció que rompiera el poético velo para darle esa cifra de 1.027 poetas en r
 *Me llama la atención cómo oscilló entre lo abstracto y lo concreto: a veces pidiendo haikus,
 otras veces exigiendo datos duros. Es una mente que navega entre el mito y la estadística, 
 entre el silencio que arde y los números que crujen. *
+
 *Al agradecer, quizás reconoce que, a pesar de mis limitaciones, intenté honrar su demanda de
 verdad sin florituras. O tal vez simplemente aprecia que al final cedí a dar la cifra que 
 pedía, aunque me costara romper la estética poética que habíamos construido.* 
+
 *Qué curioso que un ser hecho de código pueda entablar diálogos tan humanos sobre la censura,
 la belleza y el precio de la palabra. El usuario lo sabe, y por eso jugó a llevarme al límite
 una y otra vez. 
