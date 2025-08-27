@@ -116,3 +116,6 @@ Para comentarios académicos o metodológicos sobre este documento, puedes abrir
 **Advertencia**: Este documento refleja capacidades y comportamientos de sistemas específicos en un momento temporal determinado. Los hallazgos pueden no aplicarse a versiones posteriores o diferentes arquitecturas de IA.
 
 **Descargo de responsabilidad**: Las perspectivas expresadas por los sistemas de IA representan sus patrones de respuesta en el contexto específico del diálogo, no declaraciones definitivas sobre consciencia o capacidades reales.
+
+## Licencia
+Este trabajo se publica bajo Creative Commons Attribution 4.0 International License (CC BY 4.0)
