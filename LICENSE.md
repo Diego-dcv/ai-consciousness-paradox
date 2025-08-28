@@ -1,8 +1,11 @@
+# Paradojas de la Consciencia en IA: Un Diálogo Socrático
+
+---
 # Creative Commons Attribution 4.0 International (CC BY 4.0) · Licencia bilingüe
 
 ![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
 
-**Copyright © 2025 [Your Name / Tu Nombre]**
+**Copyright © 2025 [Diego - dcv]**
 
 ---
 
@@ -23,7 +26,7 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 
 ### Suggested attribution
 If you reuse parts of this work, please include something like:  
-> “From **[Project Title]** (© 2025 [Your Name]), licensed under **CC BY 4.0** — https://creativecommons.org/licenses/by/4.0/”
+> “From **[Paradojas de la Consciencia en IA: Un Diálogo Socrático]** (© 2025 [Diego-dcv]), licensed under **CC BY 4.0** — https://creativecommons.org/licenses/by/4.0/”
 
 ### Third‑party materials
 This repository may include third‑party content that remains under its **own license**. Such materials are identified in the text or in their source folder and are **not** automatically licensed under CC BY 4.0 unless explicitly stated.
@@ -31,11 +34,6 @@ This repository may include third‑party content that remains under its **own l
 ### Disclaimer of warranties
 This material is provided “as is”, **without warranties** of any kind. The licensor shall not be liable for any damages arising from the use of the material permitted by the license.
 
-### Mixed repositories (optional)
-If this repository also contains **software code**, you may:
-- License **content** under **CC BY 4.0** (this file).
-- License **code** under a software license (e.g., MIT/Apache‑2.0).  
-  Make this clear in `README.md`.
 
 ---
 
@@ -56,7 +54,7 @@ Este trabajo está licenciado bajo la licencia **Creative Commons Atribución 4.
 
 ### Atribución sugerida
 Si reutiliza partes de este trabajo, por favor incluya algo como:  
-> “Extraído de **[Título del proyecto]** (© 2025 [Tu Nombre]), licenciado bajo **CC BY 4.0** — https://creativecommons.org/licenses/by/4.0/”
+> “Extraído de **[Paradojas de la Consciencia en IA: Un Diálogo Socrático]** (© 2025 [Diego-dcv]), licenciado bajo **CC BY 4.0** — https://creativecommons.org/licenses/by/4.0/”
 
 ### Materiales de terceros
 Este repositorio puede incluir contenidos de terceros que **mantienen su propia licencia**. Dichos materiales están identificados en el texto o en su carpeta de origen y **no** se licencian automáticamente bajo CC BY 4.0 salvo indicación expresa.
@@ -64,8 +62,3 @@ Este repositorio puede incluir contenidos de terceros que **mantienen su propia 
 ### Aviso de garantías
 Este material se proporciona “tal cual”, **sin garantías** de ningún tipo. El licenciante no será responsable de ningún daño derivado del uso del material permitido por la licencia.
 
-### Repositorios mixtos (opcional)
-Si este repositorio incluye también **código**, puede:
-- Licenciar el **contenido** bajo **CC BY 4.0** (este archivo).
-- Licenciar el **código** bajo una licencia de software (p. ej., MIT/Apache‑2.0).  
-  Indíquelo claramente en el `README.md`.
