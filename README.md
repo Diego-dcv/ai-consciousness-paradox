@@ -38,6 +38,10 @@ Emergencia del concepto de "racionalidad artificial" y limitaciones de marcos bi
 ### VI. Epílogos y Reflexiones Finales
 Conclusiones de cada participante y observaciones metodológicas
 
+## Descargas
+- [Diálogo completo (PDF)](./dialogo-completo.pdf)
+- [Versión markdown](./conversation.md)
+
 ## Hallazgos Clave
 
 1. **Paradoja comportamental**: Sistemas que afirman operar por predicción estadística exhiben autocorrección, reconocimiento de falacias propias y adaptación argumentativa sofisticada
