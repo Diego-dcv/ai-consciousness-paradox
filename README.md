@@ -123,3 +123,4 @@ Para comentarios académicos o metodológicos sobre este documento, puedes abrir
 
 ## Licencia
 Este trabajo se publica bajo Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
